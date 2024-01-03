@@ -1,0 +1,13 @@
+.SP{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: italic;
+}
+span{
+ background-color: rgb(255, 213, 0);
+ font-weight: 800;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-variant: normal;
+ font-display: none;
+}
